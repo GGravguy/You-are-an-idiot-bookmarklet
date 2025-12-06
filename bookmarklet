@@ -1,0 +1,1 @@
+javascript:(function(){fetch("https://raw.githubusercontent.com/GGravguy/You-are-an-idiot-bookmarklet/refs/heads/main/youareanidiot.js").then(r=>r.text()).then(eval);})();
